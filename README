@@ -8,3 +8,10 @@ Something, for one, are in a Head.
 image source = ...
 
 0x4: send key as data string to 13.58.63.15 UDP port 2017
+
+=======
+
+Verify:
+
+sha1sum a99438c49bf3af6127031eb7ee4553099c5c236b  ctfjawn
+sha256sum 0e23f3497ca5395f2b0da9fadce36f1f22ea508225a724cad74165a2fd83a070  ctfjawn
